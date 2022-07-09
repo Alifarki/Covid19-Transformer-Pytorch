@@ -1,0 +1,2 @@
+you can download datasets from "https://www.kaggle.com/competitions/csc532"
+if you need to train with new data you have change train.py and data_utils.py
